@@ -19,5 +19,6 @@
     "nodemon": "^3.1.9",
     "uuid": "^11.1.0"
   },
+  "devDependencies": {},
   "description": ""
 }
